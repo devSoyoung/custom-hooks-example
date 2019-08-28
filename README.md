@@ -4,7 +4,7 @@
 
 React의 Hooks 사용 예제와 Custom Hooks의 활용 예제를 Form으로 만든 코드입니다. 이 코드는 아래 두 포스트를 참고하였습니다.
 
-* [https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
+* [Using Custom React Hooks to Simplify Forms](https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms)
 * [Form Validation Using Custom React Hooks](https://upmostly.com/tutorials/form-validation-using-custom-react-hooks)
 
 ## Execution
